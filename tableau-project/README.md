@@ -14,7 +14,7 @@ Projekt polega na analizie i wizualizacji danych dotyczących najpopularniejszyc
 - Porównanie ilości występujących artystów
 
 ## Link do dashboardu:
-[Kliknij tutaj, aby zobaczyć wizualizację w Tableau](https://public.tableau.com/app/profile/grzegorz.fido/viz/SpotifyProject_17100944244350/Dashboard1)
+[Dashboard w Tableau](https://public.tableau.com/app/profile/grzegorz.fido/viz/SpotifyProject_17100944244350/Dashboard1)
 
 ---
 
