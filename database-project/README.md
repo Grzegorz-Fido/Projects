@@ -1,4 +1,4 @@
-# Systemy Baz Danych 2023/2024 – Projekt
+# Baza Danych – Projekt
 
 Projekt systemu bazodanowego dla firmy oferującej kursy, szkolenia oraz studia w modelu hybrydowym (webinary, kursy krótkoterminowe, studia długoterminowe). System uwzględnia specyfikę różnych typów usług oraz procesów płatności.
 
