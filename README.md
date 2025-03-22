@@ -1,4 +1,4 @@
-# Portfolio – Projekty Analityczne
+# Portfolio
 
 W tym repozytorium znajdują się dwa projekty:
 
